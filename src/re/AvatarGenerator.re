@@ -1,4 +1,4 @@
-[%bs.raw {|require('./AvatarGenerator.css')|}];
+﻿[%bs.raw {|require('./AvatarGenerator.css')|}];
 
 let getZIndex = (id: Types.id) =>
   switch (id) {
