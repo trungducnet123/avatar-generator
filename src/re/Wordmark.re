@@ -1,8 +1,8 @@
 [@react.component]
 let make = () => {
   <a
-    href="https://draftbit.com"
-    title="Robust native front-end apps with usable code by Draftbit">
-    <Icon name="wordmark" />
+    href="https://mediaz.vn"
+    title="MediaZ Solutions">
+    <img src="https://mediaz.vn/wp-content/uploads/2020/04/logo-mediaz.png"/>
   </a>;
 };

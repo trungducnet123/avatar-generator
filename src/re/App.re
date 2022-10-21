@@ -81,7 +81,7 @@ let make =
     <header className="Layout-header">
       <div className="Layout-left">
         <Wordmark />
-        <h1 className="Text-title"> {React.string("Personas")} </h1>
+        <h1 className="Text-title"> {React.string("Avatar")} </h1>
         <span className="Text-subtitle">
           {React.string("Avatar Generator")}
         </span>
@@ -109,9 +109,9 @@ let make =
         </span>
         <br />
         <IconLink
-          href="https://draftbit.com"
-          title="Build fobust native front-end apps with usable code using Draftbit"
-          label="draftbit.com"
+          href="https://MediaZ.club"
+          title="Build fobust native front-end apps with usable code using MediaZ"
+          label="MediaZ.club"
           icon="arrow"
         />
       </div>
@@ -123,7 +123,7 @@ let make =
         (),
       )}>
       <Button
-        href="https://github.com/draftbit/avatar-generator"
+        href="https://github.com/MediaZ/avatar-generator"
         label="View on Github"
       />
     </div>

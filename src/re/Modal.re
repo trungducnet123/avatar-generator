@@ -27,7 +27,7 @@ let make = (~visible, ~onToggle) => {
             <a
               target="_blank"
               rel="no-follow"
-              href="https://twitter.com/intent/tweet?text=Generate+a+modern+avatar+with+Personas+by+@Draftbit&url=https%3A%2F%2Fpersonas.draftbit.com&related=draftbit,bluerssen,peterpme,daltondubya,donaldhruska"
+              href="https://twitter.com/intent/tweet?text=Generate+a+modern+avatar+with+Avatar+by+@MediaZ&url=https%3A%2F%2FAvatar.MediaZ.club&related=MediaZ,bluerssen,peterpme,daltondubya,donaldhruska"
               className="Modal-button Modal-button--twitter">
               <img
                 className="Modal-shareIcon"
@@ -40,7 +40,7 @@ let make = (~visible, ~onToggle) => {
             <a
               target="_blank"
               rel="no-follow"
-              href="https://www.producthunt.com/posts/personas-by-draftbit"
+              href="https://www.producthunt.com/posts/Avatar-by-MediaZ"
               className="Modal-button Modal-button--ph">
               <img
                 className="Modal-shareIcon"

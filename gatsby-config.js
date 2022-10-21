@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
     title:
-      'Personas by Draftbit | A playful avatar generator for the modern age.',
+      'Avatar by MediaZ | A playful avatar generator for the modern age.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'persona-avatar-generator-draftbit',
+        name: 'persona-avatar-generator-MediaZ',
         short_name: 'avatar-generator',
         start_url: '/',
         background_color: '#5a45ff',

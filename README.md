@@ -1,11 +1,11 @@
-# Persona Avatar Generator by Draftbit
-Try it online at [https://personas.draftbit.com](https://personas.draftbit.com)
+# Persona Avatar Generator by MediaZ
+Try it online at [https://Avatar.MediaZ.club](https://Avatar.MediaZ.club)
 
 ![Persona Avatar Generator](screenshot.png)
 
 ## Contributing
 
-Personas is built on GatsbyJS. Setup instructions are straight forward:
+Avatar is built on GatsbyJS. Setup instructions are straight forward:
 
 - `npm install -g bs-platform` installs reasonml
 - `yarn && yarn develop` starts the gatsby server

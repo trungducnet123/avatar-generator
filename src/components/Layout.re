@@ -27,11 +27,11 @@ let meta = [|
     "A playful avatar generator for the modern age.",
   ),
   MetaWithName("twitter:card", "summary"),
-  MetaWithName("twitter:site", "@draftbit"),
-  MetaWithName("twitter:title", "Personas by Draftbit"),
+  MetaWithName("twitter:site", "@mediazvn"),
+  MetaWithName("twitter:title", "Avatar by MediaZ"),
   MetaWithName(
     "twitter:image",
-    "https://personas.draftbit.com/web-preview-1x1.png",
+    "https://Avatar.MediaZ.club/web-preview-1x1.png",
   ),
   MetaWithName(
     "twitter:description",
@@ -39,23 +39,23 @@ let meta = [|
   ),
   MetaWithName(
     "keywords",
-    "Avatar, Avatar Generator, Personas, Draftbit, Avatars",
+    "Avatar, Avatar Generator, Avatar, MediaZ, Avatars",
   ),
   MetaWithProperty("fb:app_id", "292869531545861"),
   MetaWithProperty("og:type", "website"),
   MetaWithProperty(
     "og:image",
-    "https://personas.draftbit.com/web-preview.png",
+    "https://Avatar.MediaZ.club/web-preview.png",
   ),
-  MetaWithProperty("og:title", "Personas by Draftbit"),
-  MetaWithProperty("og:url", "https://personas.draftbit.com"),
+  MetaWithProperty("og:title", "Avatar by MediaZ"),
+  MetaWithProperty("og:url", "https://avatar.mediaz.club"),
   MetaWithProperty(
     "og:description",
     "A playful avatar generator for the modern age.",
   ),
 |];
 
-let link = [|{rel: "canonical", href: "https://personas.draftbit.com"}|];
+let link = [|{rel: "canonical", href: "https://avatar.mediaz.club"}|];
 
 let metaToHelmet = (item: metaItem) =>
   switch (item) {

@@ -1,6 +1,6 @@
 {
-  "name": "@draftbit/persona-avatar-generator",
-  "description": "Persona Avatar Generator by Draftbit",
+  "name": "@MediaZ/persona-avatar-generator",
+  "description": "Persona Avatar Generator by MediaZ",
   "version": "1.0.0",
   "dependencies": {
     "gatsby": "^2.21.31",
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/draftbit/persona-avatar-generator"
+    "url": "https://github.com/MediaZ/persona-avatar-generator"
   }
 }

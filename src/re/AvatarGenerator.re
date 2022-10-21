@@ -129,7 +129,7 @@ let make =
       </div>
       <IconLink
         label="Let's Go"
-        href="https://gumroad.com/l/PersonasByDraftbit"
+        href="https://gumroad.com/l/AvatarByMediaZ"
         icon="arrow"
       />
     </div>
