@@ -129,7 +129,7 @@ let make =
       </div>
       <IconLink
         label="Let's Go"
-        href="https://cv.mediaz.vn"
+        href="https://cv.mediaz.vn" 
         icon="arrow"
       />
     </div>
