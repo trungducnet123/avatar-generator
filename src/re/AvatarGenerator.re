@@ -120,11 +120,11 @@ let make =
       <img width="32" height="32" src="/images/sketch.svg" />
       <div className="AvatarGenerator-footerTop">
         <span className="Text-cta-title mb-1">
-          {React.string("Want to create a CV?")}
+          {React.string("Bạn muốn tạo CV?")}
         </span>
         <br />
         <span className="Text-cta-subtitle">
-          {React.string("Resumes and more.")}
+          {React.string("Hồ sơ xin việc và nhiều hơn thế.")}
         </span>
       </div>
       <IconLink
