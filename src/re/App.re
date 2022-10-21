@@ -123,8 +123,8 @@ let make =
         (),
       )}>
       <Button
-        href="https://github.com/MediaZ/avatar-generator"
-        label="View on Github"
+        href="https://mzg.vn/solutions"
+        label="MediaZ Solutions"
       />
     </div>
     <Modal visible=showModal onToggle=onToggleModal />
