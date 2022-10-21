@@ -1,4 +1,4 @@
-﻿[%bs.raw {|require('./AvatarGenerator.css')|}];
+[%bs.raw {|require('./AvatarGenerator.css')|}];
 
 let getZIndex = (id: Types.id) =>
   switch (id) {
@@ -129,7 +129,7 @@ let make =
       </div>
       <IconLink
         label="Let's Go"
-        href="https://cv.mediaz.vn" 
+        href="https://cv.mediaz.vn"
         icon="arrow"
       />
     </div>
